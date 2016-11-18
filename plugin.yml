@@ -1,0 +1,12 @@
+name: Holly
+version: 1.0
+main: me.ryandw11.xmas.core.Main
+author: ryandw11
+description: This is a xmas plugin!
+commands:
+    gift:
+     description: MAIN COMMAND!
+     aliases: [g, gif]
+    open:
+     description: MAIN COMMAND!
+     aliases: [o, holly.open]
